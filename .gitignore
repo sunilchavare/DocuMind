@@ -1,13 +1,6 @@
-# Python
-backend/.venv/
-backend/__pycache__/
+.venv/
+__pycache__/
 *.pyc
-
-# Node
-frontend/node_modules/
-
-# Environment
+node_modules/
 .env
-
-# VS Code
 .vscode/
